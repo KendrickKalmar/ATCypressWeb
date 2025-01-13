@@ -34,7 +34,7 @@
 2. Перейти в терминале в директорию проекта
 2. Выполнить команду:
 ```
-npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
+npx cypress run --spec cypress/e2e/hud.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
 ![image](https://raw.githubusercontent.com/KendrickKalmar/ATCypressWeb/refs/heads/main/2025-01-11_03-09-20.png)
